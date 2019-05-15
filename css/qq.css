@@ -1,0 +1,143 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+
+.head{
+	width: 100%;
+	height: 72px;
+	background-color: #eff4fa;
+	float: left;
+}
+.nav img{
+	float: left;
+	height: 62px;
+	width: 210px;
+	margin-left: 20px;
+	margin-top: 5px;
+}
+.list{
+	width: 400px;
+	height: 72px;
+	float: right;
+}
+.list li{
+	float: left;
+	line-height: 72px;
+	color: #1D5494;
+	font-size: 15px;
+	margin-left: 10px;
+}
+.two{
+	width: 100%;
+	height: 570px;
+	float: left;
+}
+.twoleft{
+	width: 32%;
+	height: 450px;
+	float: left;
+}
+.twoleft ul{
+	margin-top: 150px;
+	margin-left: 150px;
+}
+.twoleft .tleftone{
+	font-size: 30px;
+	color: #6F95C8;
+	margin-bottom: 20px;
+}
+.twoleft li{
+	line-height: 26px;
+} 
+.twoleft .tleftlast{
+	font-size: 10px;
+	margin-top: 20px;
+	color: #6F95C8;
+}
+.twomiddle{
+	width: 25%;
+	height: 450px;
+	float: left;
+}
+.twomiddle img{
+	margin-top: 150px;
+}
+.tworight{
+	width: 350px;
+	height: 380px;
+	float: left;
+	border: 1px solid #A0B1C4;
+	margin-left: 50px;
+	margin-top: 80px;
+} 
+.tworight .ultop{
+	width: 350px;
+	height: 50px;
+	float: left;
+	background-color: #F9FBFE;
+	border-bottom: 1px solid #A0B1C4;
+	
+}
+.tworight .ultop li{
+	float: left;
+	margin-left: 50px;
+	line-height: 50px;
+	color: #999999;
+	font-size: 20px
+}
+.tworight .ultop .topright{
+	margin-left: 80px;
+	color: black;
+}
+.tworight .uldown{
+	float: left;
+	margin-left: 32px;
+}
+.tworight .uldown .downone{
+	margin-top: 30px;
+}
+.downone input,.downtwo input{
+	width: 280px;
+	height: 40px;
+}
+.tworight .uldown .downtwo{
+	margin-top: 10px;
+}
+.downthree,.downfour,.downfive{
+	margin-top: 20px;
+}
+.tworight .uldown .downthree input{
+	width: 20px;
+	height: 20px;
+}
+.tworight .uldown .downfour input{
+	width: 280px;
+	height: 40px;
+	font-size: 25px;
+	background-color: #5A98DE;
+}
+.tworight .uldown .downsix{
+	margin-top: 30px;
+	float: right;
+}
+.down{
+	width: 100%;
+	height: 80px;
+	float: left;
+}
+.down .downul{
+	width: 900px;
+	height: 80px;
+	margin-left: 25%;
+}
+.down .downul li{
+	float: left;
+	line-height: 80px;
+	font-size: 10px;
+	color: #8AC9FA;
+}
+.down .downul .downli{
+	color: gray;
+}
